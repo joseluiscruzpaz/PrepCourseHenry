@@ -16,3 +16,4 @@ function mayorYMenor2(num2) {
 
 mayorYMenor2(7)
 mayorYMenor2(8)
+console.log('------------------')
